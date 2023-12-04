@@ -1,0 +1,38 @@
+    h1{
+text-align: center;
+    }
+
+    .container0{
+        width: 900px;
+        margin:0 auto;
+        background-color: lightgrey;
+    }
+
+.container_blue{
+display: flex;
+justify-content: space-between;
+background-color: lightblue;
+margin: 20px;
+padding: 10px;
+}
+
+.container_pink{
+    display: flex;
+justify-content: space-evenly;
+background-color: pink;
+margin: 20px;
+padding: 10px;
+
+}
+
+.container_white{
+    display: flex;
+justify-content: space-between;
+background-color: whitesmoke;
+margin: 20px;
+padding: 10px;
+}
+
+p{
+    text-align: center;
+}
